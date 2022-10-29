@@ -1,0 +1,24 @@
+{
+    "APP": {
+
+        "SERVER": {
+            "ERROR": "Server Error, Something broke"
+        },
+        "EMAIL_CONFIG": {
+            "EMAIL": "dannymackinley1101@gmail.com",
+            "PASSWORD": "danmac@11"
+        },
+        
+        "GOOGLE": {
+            "CLIENT_ID": "200694654613-98fof5u9g4sutp6mp5h557o79n0p3k34.apps.googleusercontent.com",
+            "CLIENT_SECRET": "F79n3XxX9Udl9O2nBAj3POxC",
+            "CALLBACK_URL": "http://localhost:3000/google/callback"
+        },
+        "FB": {
+            "CLIENT_ID": "527351401703861",
+            "CLIENT_SECRET": "66c497567e69658f9bad5a9825857726",
+            "CALLBACK_URL": "http://localhost:3000/facebook/callback"
+        }
+        ,"test":{}
+    }
+}
